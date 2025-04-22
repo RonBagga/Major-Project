@@ -69,20 +69,10 @@ The `app.py` script is a Streamlit dashboard with the following features:
 #### 📦 Models are loaded from:
 
 
-healthmate/
-├── app.py
-├── saved_models/
-│   ├── diabetes_model.sav
-│   ├── heart_disease_model.sav
-│   └── parkinsons_model.sav
-├── Diabetes Prediction Using ML.ipynb
-├── Heart Disease Prediction Using ML.ipynb
-├── Parkinsons Disease Prediction Using ML.ipynb
-└── README.md
 
 
 📊 Future Improvements:
--Add more diseases like liver disease, kidney disease, etc.
--Integrate visual analytics for feature importance.
--Add user login and history tracking.
--Deploy on cloud (e.g., Streamlit Cloud, Heroku, etc.)
+- Add more diseases like liver disease, kidney disease, etc.
+- Integrate visual analytics for feature importance.
+- Add user login and history tracking.
+- Deploy on cloud (e.g., Streamlit Cloud, Heroku, etc.)
